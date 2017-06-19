@@ -1,0 +1,14 @@
+{
+  "name": "dotenv-exam",
+  "version": "1.0.0",
+  "description": "example for dotenv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dotenv"
+  ],
+  "author": "yomaswn",
+  "license": "ISC"
+}
